@@ -7,7 +7,7 @@ class OpenAIModelMixin(object):
     api_key = OPENAI_API_KEY
     model   = "gpt-3.5-turbo"
     prompt  = None
-    temperature = 0.5
+    temperature = 0.1
     max_tokens = 2000
     top_p = 1
     frequency_penalty = 0

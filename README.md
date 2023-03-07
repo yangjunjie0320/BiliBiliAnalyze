@@ -27,7 +27,7 @@ cd -
 
 If the above commands work as expected, you can run the following command to analyze the replies of a video:
 ```bash
-export BV=BV1Y7411r7Zb
+export BV=BV1vT411e76N
 export MAX_PAGE=2
 python -c "from test_reply_summarize import test_reply_summarize; test_reply_summarize('$BV', '$MAX_PAGE')"
 ```
