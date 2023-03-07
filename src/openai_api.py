@@ -16,9 +16,7 @@ class OpenAIModelMixin(object):
     n = 1
     stream = False
 
-class ChatCompletion(OpenAIModelMixin):
-    prompt = None
-    
+class ChatCompletion(OpenAIModelMixin):    
     def get_messages(self, content):
         message_list = []
 
@@ -39,11 +37,18 @@ class ChatCompletion(OpenAIModelMixin):
 
     def run(self, content):
         message_list = self.get_messages(content)
-        prompt = ""
 
         completion = openai.ChatCompletion.create(
             model    = self.model,
-            messages  = message_list
+            messages  = message_list,
+            temperature = self.temperature,
+            max_tokens = self.max_tokens,
+            top_p = self.top_p,
+            frequency_penalty = self.frequency_penalty,
+            presence_penalty = self.presence_penalty,
+            stop = self.stop,
+            n = self.n, 
+            stream = self.stream
         )
 
         return completion
@@ -52,7 +57,7 @@ class SummarizeSubtitle(ChatCompletion):
     prompt = [
         {
             "role": "system",
-            "content": "我希望你是一名专业的视频内容编辑，帮我总结视频的内容精华。请你将视频字幕文本进行总结（字幕中可能有错别字，如果你发现了错别字请改正），然后以无序列表的方式返回，记得不要重复句子。确保所有的句子都足够精简，清晰完整，祝你好运！"
+            "content": "我希望你是一名专业的视频内容编辑，帮我总结视频的内容精华。请你将所给的一部分字幕文本进行总结（字幕中可能有错别字，如果你发现了错别字请改正），然后以无序列表的方式返回，记得不要重复句子。确保所有的句子都足够精简，清晰完整，祝你好运！"
         }
     ]
 
@@ -76,36 +81,6 @@ class SummarizeReply(ChatCompletion):
         {
             "role": "assistant",
             "content": "语气：讽刺，主要内容：表达观点"
-        },
-
-        {
-            "role": "user",
-            "content": "这是一条对视频的评论："
-        },
-
-        {
-            "role": "user",
-            "content": "夜色中，轻柔的萨克斯音乐伴奏下，静静的，一只手，轻摸我的[doge]头"
-        },
-
-        {
-            "role": "assistant",
-            "content": "语气：不明，主要内容：无"
-        },
-
-        {
-            "role": "user",
-            "content": "这是一条对视频的评论："
-        },
-
-        {
-            "role": "user",
-            "content": "BV1EG4y1U7pr",
-        },
-
-        {
-            "role": "assistant",
-            "content": "语气：不明，主要内容：其他视频",
         },
 
         {

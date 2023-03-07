@@ -37,5 +37,5 @@ def test_subtitle_summarize(bvid):
             s = ""
 
 if __name__ == "__main__":
-    test_subtitle_summarize("BV1v341117LF")
+    test_subtitle_summarize("BV1ij411g7hN")
     

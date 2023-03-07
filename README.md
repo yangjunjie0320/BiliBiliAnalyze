@@ -16,8 +16,8 @@ cd ./src/;  export PYTHONPATH=$PYTHONPATH:$(pwd); cd -;
 cd ./test/; export PYTHONPATH=$PYTHONPATH:$(pwd); cd -;
 
 cd test/
-python test_reply_summarize.py    
-python test_subtitle_summarize.py
+python test_reply_summarize.py    > test_reply_summarize.md
+python test_subtitle_summarize.py > test_subtitle_summarize.md
 cd -
 ```
 
