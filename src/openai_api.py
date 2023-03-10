@@ -38,6 +38,11 @@ class ChatCompletion(OpenAIModelMixin):
     def run(self, content):
         message_list = self.get_messages(content)
 
+        if self.api_key:
+            openai.api_key = self.api_key
+        else:
+            raise Exception("OpenAI API Key is not set.")
+
         completion = openai.ChatCompletion.create(
             model    = self.model,
             messages  = message_list,
