@@ -2,19 +2,12 @@ import os, sys
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", None)
 
 import openai
+from retrying import retry
 
 class OpenAIModelMixin(object):
     api_key = OPENAI_API_KEY
     model   = "gpt-3.5-turbo"
     prompt  = None
-    temperature = 0.1
-    max_tokens = 2000
-    top_p = 1
-    frequency_penalty = 0
-    presence_penalty = 0
-    stop = ["\n", "  ", ""]
-    n = 1
-    stream = False
 
 class ChatCompletion(OpenAIModelMixin):    
     def get_messages(self, content):
@@ -35,6 +28,7 @@ class ChatCompletion(OpenAIModelMixin):
 
         return message_list
 
+    @retry(stop_max_attempt_number=20)
     def run(self, content):
         message_list = self.get_messages(content)
 
@@ -42,18 +36,10 @@ class ChatCompletion(OpenAIModelMixin):
             openai.api_key = self.api_key
         else:
             raise Exception("OpenAI API Key is not set.")
-
+        
         completion = openai.ChatCompletion.create(
-            model    = self.model,
-            messages  = message_list,
-            temperature = self.temperature,
-            max_tokens = self.max_tokens,
-            top_p = self.top_p,
-            frequency_penalty = self.frequency_penalty,
-            presence_penalty = self.presence_penalty,
-            stop = self.stop,
-            n = self.n, 
-            stream = self.stream
+            model      = self.model,
+            messages   = message_list,
         )
 
         return completion

@@ -95,8 +95,6 @@ class BiliBiliVideo(BiliBiliMixin):
 
         if self.bilibili_cookie:
             headers['Cookie'] = self.bilibili_cookie
-        else:
-            print("No cookie found, some information may not be dumped")
 
         response = requests.get(url, headers=headers)
         res_dict = json.loads(response.text)
@@ -122,8 +120,6 @@ class BiliBiliVideo(BiliBiliMixin):
 
                 if len(data['subtitle']['list']) > 0:
                     self.subtitle_url = data['subtitle']['list'][0]['subtitle_url']
-                else:
-                    print("No subtitle found")
 
                 self.reply_num = data['stat']['reply']
                 self.damaku_num = data['stat']['danmaku']
