@@ -2,11 +2,11 @@
 
 This version could be running with simple command:
 ```bash
-export path=/Users/$(whoami)/Downloads/ # the directory of this project
-export branch=main                     # the branch of this project
-mkdir -p $path/BiliBiliAnalyze/
-git clone --branch $branch git@github.com:yangdatou/BiliBiliAnalyze.git $path/BiliBiliAnalyze/BiliBiliAnalyze-$branch/
-cd $path/BiliBiliAnalyze/BiliBiliAnalyze-$branch/
+export dir=/Users/$(whoami)/Downloads/test/ # the directory of this project
+export branch=main                          # the branch of this project
+mkdir -p $dir/BiliBiliAnalyze/
+git clone --branch $branch git@github.com:yangdatou/BiliBiliAnalyze.git $dir/BiliBiliAnalyze/BiliBiliAnalyze-$branch/
+cd $dir/BiliBiliAnalyze/BiliBiliAnalyze-$branch/
 
 echo OPENAI_API_KEY=$OPENAI_API_KEY
 echo BILIBILI_COOKIE=$BILIBILI_COOKIE
