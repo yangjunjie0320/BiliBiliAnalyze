@@ -1,4 +1,3 @@
-No subtitle found
 ### BiliBiliVideo Basic Info
 - `aid   = 483104736`
 - `cid   = 1043193077`
@@ -6,93 +5,93 @@ No subtitle found
 - `title = 【睡前消息560】连花清瘟过气，以岭指望解郁除烦胶囊`
 
 ### BiliBiliVideo Stat Info
-- `reply_num  = 948`
-- `damaku_num = 1928`
-- `view_num   = 247674`
-- `coin_num   = 41568`
-- `like_num   = 37490`
-- `fav_num    = 8299`
-- `share_num  = 5099`
+- `reply_num  = 2005`
+- `damaku_num = 9531`
+- `view_num   = 509703`
+- `coin_num   = 74053`
+- `like_num   = 63865`
+- `fav_num    = 13233`
+- `share_num  = 10346`
 
 ### Reply Summarize
 Total number of replies dumped: 40
 
- - [语气：求助，主要内容：提出问题](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155325311376): 请教大家，肺癌晚期直接化疗还是中西医结合？
+ - [语气：愤怒，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155790004512): 中药被这些半吊子中药一心想着谋取暴利的渣子坑的100年爬不起来
 
- - [语气：肯定，主要内容：个人经历/表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155324577264): 我为我们有督工这样的媒体人而感到开心。
+ - [语气：负面，主要内容：表达不满意](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155786352016): 真坑
 
- - [语气：严肃，主要内容：提出建议](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155324573936): 要求解郁除烦胶囊踢出医保基金目录！
+ - [抱歉，根据这条评论无法判断其语气和主要内容，请提供更具体的评论内容。](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155779694528): 。。。。。
 
- - [语气：断言，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155324292848): 中医就是伪科学
+ - [语气：疑问，主要内容：提出问题](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155774052160): 请问什么时候讲一下俄亥俄州事件[热词系列_妙啊]
 
- - [语气：严肃，主要内容：提出建议](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155324168720): 想请聂先生上节目又不给其家人带来感染病毒的风险可以采取远程视频连线的方式
+ - [语气：赞美，主要内容：个人观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155772477152): 督工做社会新闻我还是支持的[妙啊]
 
- - [语气：讽刺，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155323716512): 这种药人用完就成标本了吧
+ - [语气：轻松，戏谑，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155722683840): 这期又得两个币[doge]
 
- - [语气：感谢，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155323272288): 感谢马督工的坚守，一键三连了
+ - [语气：肯定，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155720497600): 90后医生自信的说没开过乱七八糟的中成药，虽然一个人力量小，也可以为节省资金贡献自己的一份力量
 
- - [语气：严肃，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155322955808): 另外。大家不要觉得督工是在针对中药。督工针对的，是随便拿个所谓的古方，就能堂而皇之的搞双重标准搞审批的这一行为。搞出来的这些所谓的“现代中成药”，既没疗效，又白白浪费了宝贵的医保资金。除了肥了无量药企之外，基本就是卵用没有。 ；很多人说中医中药如何如何，不应该抹黑如何如何。 ；拜托，真正在抹黑中医药的，不就是这些打着中医药的幌子骗钱的无良企业吗？ ；正儿八经把这些只会打着幌子黑钱的黑医蠹虫杀一批，抓一批，判一批，才是对正经中医药的最大保护。
+ - [无法判断。由于评论过于简短且缺乏上下文，无法确认评论的语气和主要内容。](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155703157408): 老朋友
 
- - [语气：戏谑，主要内容：其他话题](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155322901888): 塔塔开！
+ - [语气：愤怒，主要内容：表达观点，个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155701163040): 给你们看一个伪装成一线药师的学生，还是那种不会查指南，也坚决不查指南的医学生，也不查论文的。让人绝望的医疗环境，一堆这样的医生，滥竽充数，参差不齐，当然有医术且良心的，还有这样黑心且不学无术的，更一堆不看专家共识的，他们就认为自己比全国最顶尖的专家找的最佳证据还正确。 ；各位自求多福吧。（我反驳了中药，不是说医生给你开西药就没问题的，有的瞎开西药跟开中药一样恶劣）
 
- - [语气：愤怒，主要内容：表达不满](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155322556224): 化学药不许叫“扑热息痛”，不沿用已约定俗成的古方名的新中成药却可以叫“解郁除烦”，这不公平。
+ - [语气：戏谑，主要内容：个人经历/评论](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155695764432): 老马是要和老吴家杠到底了
 
- - [语气：愤怒，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155322451040): 不是仿制药凭什么按仿制药标准出实验报告。
+ - [语气：不满，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155694841920): 别搞这么多猫，我是来看新闻的不是来逛动物园的
 
- - [语气：欣慰，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155322268368): 解郁除烦一天要吃93.5元，我吃进口的伏硫西汀平均一天才30出头。相比之下好像也不是那么贵了，心情好很多[妙啊]
+ - [语气：建议，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155694618896): 作为一个医生告诉大家，看病想要省钱，跟医生说不要用中药和中成药就行了
 
- - [语气：询问，主要内容：提出问题](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155322237184): 我想在拼多多買解鬱除憂膠囊，有優惠嗎[妙啊]
+ - [语气：严肃，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155671641568): 中成药就是骗人的
 
- - [语气：讽刺，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155322090112): 说得很好，但因为有拼夕夕，所以点赞收藏三连一个也没有
+ - [语气：戏谑，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155670998368): 科技从来都是越新的越发达怎么中药就越古越🐮了呢？
 
- - [语气：建议，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155321953712): 直播视频连线也可以啊，不一定非要线下
+ - [语气：严肃，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155667802784): 以前吃过一个很贵的进口西药，那个副作用表第一面一大半，背面全是副作用表，吃那个药时身上莫名长了很多斑块，一直不知道为什么，直到上厕所无聊翻到这药的副作用表，才知道那是这个药可能的副作用。
 
- - [语气：幽默，主要内容：个人描述。](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155321481376): 秃秃脑袋，油光蹭亮[热词系列_妙啊][热词系列_妙啊][热词系列_妙啊]
+ - [语气：戏谑，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155666659088): 马超纯属扯淡！以岭的药我一直在吃，身体状况明显变好，现在已经刀枪不入并且能飞，镭射眼也在觉醒中
 
- - [语气：戏谑，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155321304544): 听着听着 睡不着了[笑哭]
+ - [语气：询问，主要内容：提出话题](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155663067600): 想听你聊聊马保国老师
 
- - [语气：客观，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155321164448): 新冠开始的时候，who认为死亡率是10-18%，但是把基数重新计算后死亡率也是3-5%，莲花清瘟从开始就有参与
+ - [语气：不满，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155652314912): 中药就中药，搞成中成药，这玩意才几年
 
- - [语气：中性，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155320870976): 挺好，以后中国人吃中药 ；西方人吃西药 ；这不对比实验就出来了
+ - [语气：严肃，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155649689648): 我中度一个月吃药300多，而且要一直吃，确实有市场
 
- - [语气：愤慨，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155320828416): 迷信中医的荼毒在某些人身上有多深，到现在我还能在今日头条看见人说西医治脑子都是4，帕金森综合症扎针灸就能治好[辣眼睛][热]
+ - [语气：不满，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155640413376): 医生原话：你可以质疑我的治疗方案，如果你不信任我，那就换一家医院。 ；[怪我咯][怪我咯]
 
- - [语气：愤怒/批判，主要内容：表达观点和对中医的辩护](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155320788688): 中医粉经典言论：中医挡了路西医的路，中医治病才花多少钱。竞争不过中医，当然要拼命抹黑中医！ ；实际上这种人从来不关注药品价格，去药店不说指定用药，让店员推荐，绝对少不了给你推荐中成药。毕竟提成高。
+ - [语气：简单明了，主要内容：表达喜爱/支持。](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155628901920): 点赞
 
- - [语气：戏谑，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155320816240): 以岭药业简直是万金油批发部
+ - [语气：愤怒，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155627045936): 每个环节都打点了，独独忘了老马，能不气嘛
 
- - [语气：幽默，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155320764816): 秃头经常都说这中学生都能懂，那个中学生也能懂。我也读过中学啊，怎么我就看不懂？难道我读的是假的中学[脱单doge][脱单doge][脱单doge]
+ - [语气：严肃，主要内容：提出建议](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155625558336): 督工想不想讲讲八小时工作制问题，我觉得那才是社会化扶养的替代方案
 
- - [语气：严肃，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155320448464): 没有什么中药西药，只有现代医学
+ - [语气：戏谑，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155625103840): 最可怕的是，我把这篇内容讲给我妈听，我妈的第一反应是钱都被西药挣去了，中医药发展不起来了，现在有中医药，你们还各种阴谋论，中医药还能不能好了[笑哭][笑哭][笑哭]
 
- - [语气：赞扬，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155320222768): 突然感觉督工说自己媒体战士真不是吹，就没几个敢这样冲国内具体资本的自媒体
+ - [很抱歉，这条评论非常简短且缺乏足够的上下文，无法判断其语气和主要内容。建议提供更多相关信息或其他评论以便我们更好地进行判断。](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155618691904): 感谢拼多多
 
- - [语气：玩笑，主要内容：个人经历/提问](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155320222256): 逍遥散不舒服吗[脱单doge]
+ - [语气：玩笑，主要内容：个人经验](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155613042256): 布洛芬一次1到2片 ；快克 一次1到2粒 ；蒲地蓝胶囊 一次6粒  ；我每次感觉吃中成药跟喝粥一样
 
- - [语气：不明，主要内容：个人经历/商业宣传](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155320201296): 我有逢赌必赢丸卖 ；苦于找不到销路
+ - [语气：戏谑，主要内容：提出建议](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155606724480): 不买胶囊，把钱拿来在拼嘻嘻，很对
 
- - [语气：严肃，主要内容：表达观点、提出建议](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155319973792): 唉，以岭药业别把中药毁了，干点正事儿吧
+ - [语气：戏谑，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155605524992): 其实中药这东西是很耗源气的，只有吸收了源气的中药才能有很好的疗效，我们古人过去中药种的多，极品药材成吨成吨出，把源气都消耗完了，导致现代人种的中药有其形无其神，最多长到九星圣丹级别，只要中国停用中药200年，改用西医苦三代人，200年后源气恢复，帝丹现世未必遥不可及。
 
- - [语气：严肃，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155319961568): 路走偏了，上世纪推广中药是因为原材料多，而且效果尚好，可以覆盖国内最广大人民，类似于药品里的赤脚医生。现在这是打着中药的名号吸血，吸完血后还不发展现代的中医理论，无论向上还是向下都意义不明，纯变圈钱工具了。
+ - [语气：担忧，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155602334176): 啊，好怕督工出事。。
 
- - [语气：戏谑，主要内容：其他话题](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155319776448): 解郁除烦胶囊有五石散好用吗？[doge]
+ - [语气：支持，主要内容：个人观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155596469232): 我支持马督工！
 
- - [语气：担忧，主要内容：提出疑问和担忧](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155319712224): 我们国家现在有中医药保护法，督工这么做节目会有法律上的问题吗……
+ - [语气：反驳，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155590121408): 所有人都在屯药的时候，我一点都不慌，都在宣传这个那个药，药店感冒类退烧类降火类都被搬空了。到我自己阳的时候，三天，发烧最高38.6度，六包头痛粉就解决了，六毛钱，退烧又止痛，相比花了几千屯药的，效果可能还不一定有我的好。在网上搜头痛粉，基本都是跟上瘾，咖啡 因关联，反正跟洪水猛兽没啥区别，就差没说它是d品了。我有偏头痛，吃头痛粉十多年了，我用良心说话，不会上瘾，我头不痛我吃那玩意做啥？真像他们描述的那种，好像闻一下就上瘾，药店还能卖？说白了就是，头痛粉，去痛片，挡人家财路了。最后友情提示，广州白云山何济公的疗效最好，其他厂家差很多，还有就是头痛粉，去痛片，吃了真伤胃，但啥药没副作用？是药三分毒，总比伤肝伤肾好吧。
 
- - [语气：激动，主要内容：个人经历及要求 others。](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155319512448): 【看看mfs对乐乐做了什么，我们有理由让丫丫提前回来了，要快呀！！！气抖冷！！！-哔哩哔哩】 https://b23.tv/EF3jHzN
+ - [语气：决定，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155589857024): 我选择真中药和西药，不会要中成药
 
- - [语气：严肃，主要内容：分享新闻](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155319421856): 【又一起诺福克南方铁路公司火车在俄亥俄州脱轨-哔哩哔哩】 https://b23.tv/hjJlmFI
+ - [语气：戏谑，主要内容：提出建议](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155589248144): 督公督公，要不，咱来一期，对着拼多多冲？[呲牙][呲牙][呲牙][呲牙]那效果绝对炸裂，流量蹭蹭蹭的[呲牙][呲牙][呲牙][呲牙]
 
- - [语气：幽默，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155319036224): 精神类药物的说明书确实是小论文一样超长，写满了各种副作用。医生都跟我说别看说明书，影响治疗[喜极而泣]
+ - [语气：肯定，主要内容：个人经历/提出建议](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155579637040): 去pdd支持一下吧 社会需要这样的声音
 
- - [语气：轻松，主要内容：个人经历和提出建议](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155319010944): 6，我就要下次有机会买几盒然后医保报了但是不吃
+ - [抱歉，这条评论无法判断语气和主要内容，因为它太短了，并且缺少上下文信息。请提供更全面的评论，以便我能更好地为您服务。](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155578335744): 上次还说平时没什么点机械的，这次就点了
 
- - [语气：不满，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155318890992): 客客气气的和医生说换成其他药，问题是医生写的鬼画符谁能看懂啊（或许这也是一种套路？），等你拿了医生处方去收费口拿药交了钱，药给你了才发现是解郁除烦胶囊根本没法换啊。
+ - [语气：戏谑，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155577714656): 疫情过后，连花清瘟销量降低，这不很正常吗？谁没病待着没事买药啊
 
- - [语气：愤怒，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155318643104): 187块钱一盒 ，只能吃两天。 ；唉。 ；他怎么敢的。
+ - [语气：讽刺，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155572295040): 笑死请问哪个设计院敢给甲方指定材料？
 
- - [语气：严肃，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155318526688): 拒绝中成药，拒绝中成药，拒绝中成药，重要的事情说三遍
+ - [很难对这条评论进行准确的判断，因为它的语言表达和逻辑连贯性都比较混乱。可能是因为它是在回应其他评论而产生的，所以缺少了前置信息。如果非要对它进行评价，可能是带有一些负面情绪的语气，主要内容是个人感受和疑问。](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155567371936): 我是被针对了嘛品论宗师被闪出
 
- - [语气：自嘲，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155318427616): 正电气选型中，真的是越贵的我越选，特别是设计阶段，全都买最贵的件，越贵我用着越踏实......
+ - [语气：戏谑，主要内容：个人经历](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155566928384): [吃瓜]自打被医生瞎开了几次药之后，我就开始自己给自己打针，开药了[吃瓜]
 
- - [语气：戏谑，主要内容：表达观点](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155318220160): 拼多多挺聪明的，花一点点钱就能避免以岭药业那样的重大舆情风险[滑稽]
+ - [语气：恼怒，主要内容：表达观点和提出建议](https://www.bilibili.com/h5/comment/sub?oid=483104736&pageType=1&root=155566871072): 一本正经分析文件没啥意义，“上面”都打好了招呼~文件只是走个过场意思一下。其实不太清楚我们有没有合理的顶层纠错机制，最上面那一层人铁了心搞坏，有没有办法去遏制一下呢
