@@ -15,9 +15,12 @@ def test_subtitle_summarize(bvid):
     subtitle_list = bv.dump_subtitle()
 
     sr = SummarizeSubtitle()
-    sr.max_tokens = 1000
     sr.api_key    = OPENAI_API_KEY
-    max_tokens    = sr.max_tokens
+    max_tokens    = 1000
+    sr.kwargs = {
+        "temperature": 0.5,
+        "max_tokens": max_tokens,
+    }
 
     print("\n### Subtitle Summarize")
 

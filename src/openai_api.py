@@ -1,4 +1,4 @@
-import os, sys
+import os, sys, time
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", None)
 
 import openai
@@ -8,6 +8,9 @@ class OpenAIModelMixin(object):
     api_key = OPENAI_API_KEY
     model   = "gpt-3.5-turbo"
     prompt  = None
+
+    sleep_time = 3.0
+    kwargs     = None
 
 class ChatCompletion(OpenAIModelMixin):    
     def get_messages(self, content):
@@ -37,10 +40,16 @@ class ChatCompletion(OpenAIModelMixin):
         else:
             raise Exception("OpenAI API Key is not set.")
         
+        if self.kwargs is None:
+            self.kwargs = {}
+
         completion = openai.ChatCompletion.create(
             model      = self.model,
             messages   = message_list,
+            **self.kwargs
         )
+
+        time.sleep(self.sleep_time)
 
         return completion
 
@@ -56,7 +65,17 @@ class SummarizeReply(ChatCompletion):
     prompt = [
         {
             "role": "system",
-            "content": "我希望你是一名专业的视频内容编辑，现在你需要阅读一条对视频的评论，判断这条评论的语气（严肃、戏谑等）和主要内容（个人经历、表达观点、提出建议等）。下面是一些例子供你参考："
+            "content": "我希望你是一名专业的视频内容编辑，现在你需要阅读一条对视频的评论，判断这条评论的语气（严肃、戏谑等）和主要内容（个人经历、表达观点、提出建议等）。"
+        },
+
+        {
+            "role": "system",
+            "content": "如果你不能判断，则输出 \"无法判断\""
+        },
+
+        {
+            "role": "system",
+            "content": "下面是一些例子供你参考："
         },
 
         {
@@ -75,7 +94,7 @@ class SummarizeReply(ChatCompletion):
         },
 
         {
-            "role": "user",
+            "role": "system",
             "content": "请根据以上的例子进行判断，并以相似的格式输出。确保足够精简，祝你好运！"
         }
     ]
