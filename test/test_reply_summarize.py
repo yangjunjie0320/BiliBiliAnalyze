@@ -12,7 +12,7 @@ def test_reply_summarize(bvid, max_page=2):
     bv.bilibili_cookie = None
 
     bv.dump_info()
-    reply_list = bv.dump_reply(max_page=2)[:4]
+    reply_list = bv.dump_reply(max_page=2)
 
     sr = SummarizeReply()
     sr.api_key = OPENAI_API_KEY
