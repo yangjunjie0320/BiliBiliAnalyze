@@ -41,12 +41,14 @@ class ChatCompletion(OpenAIModelMixin):
             raise Exception("OpenAI API Key is not set.")
         
         if self.kwargs is None:
-            self.kwargs = {}
+            kwargs = {}
+        else:
+            kwargs = self.kwargs
 
         completion = openai.ChatCompletion.create(
             model      = self.model,
             messages   = message_list,
-            **self.kwargs
+            **kwargs
         )
 
         time.sleep(self.sleep_time)
