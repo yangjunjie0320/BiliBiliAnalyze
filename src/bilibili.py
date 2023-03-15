@@ -120,6 +120,7 @@ class BiliBiliVideo(BiliBiliMixin):
 
                 if len(data['subtitle']['list']) > 0:
                     self.subtitle_url = data['subtitle']['list'][0]['subtitle_url']
+                print(data['subtitle']['list'])
 
                 self.reply_num = data['stat']['reply']
                 self.damaku_num = data['stat']['danmaku']
