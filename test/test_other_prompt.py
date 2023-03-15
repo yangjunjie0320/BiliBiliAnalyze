@@ -71,10 +71,16 @@ def summarize_article(text, title=None, max_tokens=1000, max_batch=1000):
             "role": "user",
             "content": "我希望你是一名专业的文字编辑，请你将所给的一篇文章改写，做到以下几点："
         },
+
         {
-            "role": "system",
-            "content": "1. 用markdown语法写作，每个段落用空行分隔，每个标题用#开头；2. 语言简练、书面化；3. 文本中可能有错别字，如果你发现了错别字请改正。"
+            "role": "user",
+            "content": "1. 用markdown语法写作，每个段落用空行分隔；2. 你读到的文本只是整篇文章的一部分，不必在意你所改写的文章的完整性；3. 语言简练、书面化，去掉重复啰嗦的内容，使得篇幅是原文的三分之一；4. 文本中可能有错别字，如果你发现了错别字请改正。"
         },
+
+        {
+            "role": "user",
+            "content": "请直接输出订正后的字幕文本，不必加入任何其他内容。"
+        }
     ]
 
     cc = ChatCompletion()
@@ -86,7 +92,6 @@ def summarize_article(text, title=None, max_tokens=1000, max_batch=1000):
         "max_tokens": max_tokens,
     }
 
-    text = ",".join("。".join(text.split("\n")).split("。")).split(",")
     tt = "\n".join(text)
     batch_size = len(tt) // ((len(tt) // max_batch - 1) or 1) + 1
     print("len(s) = %d; batch_size = %d" %(len(tt), batch_size))
@@ -132,10 +137,9 @@ def test_other_prompt(bvid, max_batch=1000, max_tokens=1000):
 
     with open(f"./tmp/article-{bvid}-v1.md", "r") as f:
         ss = f.read()
-        ss.replace("\r", "")
-        print(ss)
+        ss = ss.replace("\n", "")
+        ss = ss.split("。")
 
-        article_list = ss.split("\n")
         ss = summarize_article(ss, title="%s-2" % bvid, max_tokens=max_tokens, max_batch=max_batch)
         with open(f"./tmp/article-{bvid}-v2.md", "w") as f:
             f.write(ss)
@@ -145,4 +149,4 @@ def test_other_prompt(bvid, max_batch=1000, max_tokens=1000):
 
 
 if __name__ == "__main__":
-    test_other_prompt("BV1MY4y1R7EN", max_batch=500, max_tokens=1000)
+    test_other_prompt("BV1MY4y1R7EN", max_batch=800, max_tokens=1400)
